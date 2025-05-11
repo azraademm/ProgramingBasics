@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchestoCentimeters", "InchestoCentimeters\InchestoCentimeters.csproj", "{C678B850-44CE-43D9-BA0D-E85B479DDBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C678B850-44CE-43D9-BA0D-E85B479DDBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C678B850-44CE-43D9-BA0D-E85B479DDBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C678B850-44CE-43D9-BA0D-E85B479DDBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C678B850-44CE-43D9-BA0D-E85B479DDBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC3E385-85A7-4D24-931C-FC39CD9E0402}
+	EndGlobalSection
+EndGlobal
